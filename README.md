@@ -1,5 +1,5 @@
 # FavoriteGameClassProjectWebsite
-This webswites main page allows someone to see the different ratings between some of my favorite call of duty games.
+This websites main page allows someone to see the different ratings between some of my favorite call of duty games.
 
 The nav bar at the top allows a user to jump around easily on the page while remaining fixed on the top.
 
